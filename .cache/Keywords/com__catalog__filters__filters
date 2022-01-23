@@ -1,26 +1,23 @@
 {
-  "keywordFileContentHash": "4DAAFE23FA021834BDD576BBA51FE883",
+  "keywordFileContentHash": "50948681C44374803C544296B406CD2A",
   "keywordClasses": [
     {
       "name": "com.catalog.filters.filters",
       "keywordMethods": [
         {
           "name": "catalogselection",
-          "parameters": [],
-          "javadoc": ""
+          "parameters": []
         },
         {
           "name": "paginationdropdownselector",
-          "parameters": [],
-          "javadoc": ""
+          "parameters": []
         },
         {
           "name": "paginationCount",
-          "parameters": [],
-          "javadoc": ""
+          "parameters": []
         }
       ]
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }

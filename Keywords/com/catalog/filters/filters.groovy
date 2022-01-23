@@ -28,7 +28,7 @@ public class filters {
 	@Keyword
 	def catalogselection() {
 		//Getting Count of Catalogs Direct and Distributor Catalogs including Subcatalogs
-		int catalog_count=WebUI.findWebElements(findTestObject('PrioTicket Catalog Objects/Catalog Filters Objects/catalog_tile_click'),2).size()
+		int catalog_count=WebUI.findWebElements(findTestObject('Object Repository/4) Catalog Filters Objects/catalog_tile_click'),2).size()
 		println("No.of Direct catalog and Distributor Catalogs including Subcatalogs:" +catalog_count);
 
 
@@ -37,13 +37,13 @@ public class filters {
 		for(int i=0;i<catalog_count;i++)
 
 		{
-			String catalogs_name=WebUI.findWebElements(findTestObject('PrioTicket Catalog Objects/Catalog Filters Objects/catalog_tile_click'),2).get(i).getText();
+			String catalogs_name=WebUI.findWebElements(findTestObject('Object Repository/4) Catalog Filters Objects/catalog_tile_click'),2).get(i).getText();
 			println("Catalogs Headings:"+catalogs_name)
 
 			if(catalogs_name==GlobalVariable.catalogname)
 			{
 				println('Selected Catalog Verified')
-				WebUI.findWebElements(findTestObject('PrioTicket Catalog Objects/Catalog Filters Objects/catalog_tile_click'),2).get(i).click()
+				WebUI.findWebElements(findTestObject('Object Repository/4) Catalog Filters Objects/catalog_tile_click'),2).get(i).click()
 				println('Catalog Clicked')
 				break
 			}

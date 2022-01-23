@@ -124,4 +124,9 @@
       <initValue>'1546223'</initValue>
       <name>search_prod_pending</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Distributors'</initValue>
+      <name>catalogname</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

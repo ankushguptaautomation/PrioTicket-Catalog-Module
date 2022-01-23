@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>catalog_all_button</name>
+   <name>catalog_tile_click</name>
    <tag></tag>
-   <elementGuidId>fb42abf2-3217-4cd9-9a48-fbf93880ec76</elementGuidId>
+   <elementGuidId>104ab65b-306b-4614-9bc7-3e72e505787a</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//*[@id=&quot;accountView&quot;]/div/div[2]/div[2]/div[1]/div[1]/div[3]/div[1]/a[1]</value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;direct_catalog_list&quot;]/div/h4</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
