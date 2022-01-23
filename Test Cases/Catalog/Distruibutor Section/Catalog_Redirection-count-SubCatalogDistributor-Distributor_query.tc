@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Catalog_Redirection-count-SubCatalogDistributor-Distributor_query</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ee57a6e5-3752-4273-94b2-eda26711f05f</testCaseGuid>
+   <variable>
+      <defaultValue>'148454'</defaultValue>
+      <description></description>
+      <id>b875455e-9c16-4ffe-8031-40c8ccc3f522</id>
+      <masked>false</masked>
+      <name>catalog_product</name>
+   </variable>
+   <variable>
+      <defaultValue>'10772'</defaultValue>
+      <description></description>
+      <id>2795b40f-6143-4379-8a17-d477d01c0852</id>
+      <masked>false</masked>
+      <name>distributorid</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Catalog_Redirection-count-SubCatalog</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>737b4299-f7d4-4454-a76a-b4fdb244dfc6</testCaseGuid>
+   <variable>
+      <defaultValue>'148454'</defaultValue>
+      <description></description>
+      <id>af587e16-0237-498a-8f30-211dd65a7778</id>
+      <masked>false</masked>
+      <name>catalog_product</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7ba215eb-4446-4f47-8a19-130a826ad056</id>
+      <masked>false</masked>
+      <name>catalog_type</name>
+   </variable>
+</TestCaseEntity>

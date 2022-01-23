@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Catalog_Redirection-count-withActiveFilter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>42d7771c-da85-4cc8-bb42-a0c3baf1cef9</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0b5686b1-58ee-4879-a9cc-326256f89fd6</id>
+      <masked>false</masked>
+      <name>catalog_product</name>
+   </variable>
+</TestCaseEntity>

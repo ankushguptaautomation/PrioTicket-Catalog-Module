@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "D57BAD79A7684175BCD58E4FCCE008C4",
+  "keywordClasses": [
+    {
+      "name": "com.prio_redirection.prio_redirection",
+      "keywordMethods": [
+        {
+          "name": "marketplace_redirect_admin",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "getsuperadmin_tab",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

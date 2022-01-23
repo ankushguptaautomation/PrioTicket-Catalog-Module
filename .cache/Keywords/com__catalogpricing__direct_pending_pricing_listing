@@ -1,0 +1,71 @@
+{
+  "keywordFileContentHash": "D2E160ED1B9FD4ECEA4F0610639EBD6D",
+  "keywordClasses": [
+    {
+      "name": "com.catalogpricing.direct_pending_pricing_listing",
+      "keywordMethods": [
+        {
+          "name": "search_product",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "tpsdata",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "combitype",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "productID",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "productname",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "suppliername",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "direct_listprice",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "direct_saleprice",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "direct_margin",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "direct_discount",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "direct_purchaseprice",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "direct_distributorfee",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

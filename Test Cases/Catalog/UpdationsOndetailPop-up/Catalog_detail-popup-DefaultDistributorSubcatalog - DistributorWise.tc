@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Catalog_detail-popup-DefaultDistributorSubcatalog - DistributorWise</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fd575720-02d9-4814-9d21-8fb8c7dfff90</testCaseGuid>
+   <variable>
+      <defaultValue>'148454'</defaultValue>
+      <description></description>
+      <id>11b07937-0d9d-4335-a107-12825c072abf</id>
+      <masked>false</masked>
+      <name>catalog_product</name>
+   </variable>
+   <variable>
+      <defaultValue>'10772'</defaultValue>
+      <description></description>
+      <id>b98fd79f-6129-482f-b415-bdad9dae6ddd</id>
+      <masked>false</masked>
+      <name>distributorid</name>
+   </variable>
+</TestCaseEntity>

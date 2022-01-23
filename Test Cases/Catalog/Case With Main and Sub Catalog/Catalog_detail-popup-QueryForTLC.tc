@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Catalog_detail-popup-QueryForTLC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9d6c9db9-710f-4efb-93d2-ca835c75088c</testCaseGuid>
+   <variable>
+      <defaultValue>'1287'</defaultValue>
+      <description></description>
+      <id>c3bb3380-d677-47c3-92d3-1457400e24b7</id>
+      <masked>false</masked>
+      <name>admin</name>
+   </variable>
+   <variable>
+      <defaultValue>'10772'</defaultValue>
+      <description></description>
+      <id>70d363a5-fc4c-41ab-b1ef-6d1397f180ae</id>
+      <masked>false</masked>
+      <name>distributorid</name>
+   </variable>
+</TestCaseEntity>

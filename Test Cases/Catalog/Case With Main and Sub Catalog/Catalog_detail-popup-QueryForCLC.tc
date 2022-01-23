@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Catalog_detail-popup-QueryForCLC</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fefb5ac4-fbdd-4711-8b41-363ecc0ae220</testCaseGuid>
+   <variable>
+      <defaultValue>'794'</defaultValue>
+      <description></description>
+      <id>72a90efc-9a4a-435e-9ce1-83e093bfd8fe</id>
+      <masked>false</masked>
+      <name>admin</name>
+   </variable>
+</TestCaseEntity>

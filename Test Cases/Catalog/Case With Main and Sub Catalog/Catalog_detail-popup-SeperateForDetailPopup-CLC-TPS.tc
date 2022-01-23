@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Catalog_detail-popup-SeperateForDetailPopup-CLC-TPS</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>54c5b589-112c-4ce4-8147-6772a9a54556</testCaseGuid>
+   <variable>
+      <defaultValue>'1287'</defaultValue>
+      <description></description>
+      <id>c95d5a52-37dc-4192-8a8b-be3b026e5aae</id>
+      <masked>false</masked>
+      <name>admin</name>
+   </variable>
+</TestCaseEntity>

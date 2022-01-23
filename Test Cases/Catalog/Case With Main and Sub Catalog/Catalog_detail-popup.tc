@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Catalog_detail-popup</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>74c13ba1-5e70-46b1-9ce3-62d75184498c</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5e48a0c2-8ae4-45d6-a0b2-8f741da9e88e</id>
+      <masked>false</masked>
+      <name>catalog_product</name>
+   </variable>
+</TestCaseEntity>

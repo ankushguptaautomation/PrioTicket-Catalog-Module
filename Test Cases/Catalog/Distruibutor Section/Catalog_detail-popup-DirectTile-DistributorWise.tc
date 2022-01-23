@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Catalog_detail-popup-DirectTile-DistributorWise</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>965afe80-6663-4902-8dac-284041a5376f</testCaseGuid>
+   <variable>
+      <defaultValue>'148454'</defaultValue>
+      <description></description>
+      <id>6593ea21-ec35-4307-8612-6cb873d63c3c</id>
+      <masked>false</masked>
+      <name>catalog_product</name>
+   </variable>
+   <variable>
+      <defaultValue>'10772'</defaultValue>
+      <description></description>
+      <id>5a9947a5-348d-433e-bf29-24ff096d1db7</id>
+      <masked>false</masked>
+      <name>distributorid</name>
+   </variable>
+</TestCaseEntity>

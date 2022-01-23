@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Catalog_detail-popup-DefaultDirectSubcatalog</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4bbe55d6-1e30-41e6-b786-e849f998a9ef</testCaseGuid>
+   <variable>
+      <defaultValue>'148454'</defaultValue>
+      <description></description>
+      <id>ea200730-2d4d-4923-9463-50dbed38d7cb</id>
+      <masked>false</masked>
+      <name>catalog_product</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+{
+  "keywordFileContentHash": "5AE1CA1A2B82BA37809591598160A7A0",
+  "keywordClasses": [
+    {
+      "name": "com.catalog.createcatalog.createSubcatalog",
+      "keywordMethods": [
+        {
+          "name": "subcatalogUtilities",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "subcatalogSelection",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

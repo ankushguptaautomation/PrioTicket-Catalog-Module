@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Catalog_Redirection-count-distributorWise-distributortiles</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1f848f1a-8b12-4cc8-9645-e8073fe9e769</testCaseGuid>
+   <variable>
+      <defaultValue>'148454'</defaultValue>
+      <description></description>
+      <id>3d3da0ae-8283-4a28-a849-8832a522ffc1</id>
+      <masked>false</masked>
+      <name>catalog_product</name>
+   </variable>
+   <variable>
+      <defaultValue>'10772'</defaultValue>
+      <description></description>
+      <id>04f29fa7-36ed-4b34-87b0-a66a05ab705f</id>
+      <masked>false</masked>
+      <name>distributorid</name>
+   </variable>
+</TestCaseEntity>

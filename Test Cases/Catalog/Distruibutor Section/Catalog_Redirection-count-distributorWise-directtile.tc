@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Catalog_Redirection-count-distributorWise-directtile</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f5936c0-e305-48e7-a0ec-2889a1a98bc8</testCaseGuid>
+   <variable>
+      <defaultValue>'148454'</defaultValue>
+      <description></description>
+      <id>20b0106a-335b-4278-ade0-bdc6f11e5a9c</id>
+      <masked>false</masked>
+      <name>catalog_product</name>
+   </variable>
+   <variable>
+      <defaultValue>'10772'</defaultValue>
+      <description></description>
+      <id>fd544143-efa8-40d7-83fe-572d61ef7949</id>
+      <masked>false</masked>
+      <name>distributorid</name>
+   </variable>
+</TestCaseEntity>

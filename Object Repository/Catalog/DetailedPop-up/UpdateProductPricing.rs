@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description>(//button[@id='update_button_ticket_text'])[1]</description>
+   <name>UpdateProductPricing</name>
+   <tag></tag>
+   <elementGuidId>35a675af-bcbb-4d5d-b94b-d61ed317ccb0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@id='update_button_ticket_text'])[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+</WebElementEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Catalog_Redirection</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f329bdd3-8aff-45b0-b80b-244c321fe3d3</testCaseGuid>
+   <variable>
+      <defaultValue>'1287'</defaultValue>
+      <description></description>
+      <id>f435af1f-0d8c-423e-8766-1e5c147558da</id>
+      <masked>false</masked>
+      <name>admin</name>
+   </variable>
+</TestCaseEntity>

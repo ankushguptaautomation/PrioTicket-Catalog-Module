@@ -1,0 +1,71 @@
+{
+  "keywordFileContentHash": "A4BF0C0040F3A8AFA49F38AC6CC86E00",
+  "keywordClasses": [
+    {
+      "name": "com.catalogpricing.distributor_pending_pricing_listing",
+      "keywordMethods": [
+        {
+          "name": "search_product",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "tpsdata",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "combitype",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "productID",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "productname",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "suppliername",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "distributor_listprice",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "distributor_saleprice",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "distributor_margin",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "distributor_discount",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "distributor_purchaseprice",
+          "parameters": [],
+          "javadoc": ""
+        },
+        {
+          "name": "distributor_distributorfee",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
